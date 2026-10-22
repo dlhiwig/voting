@@ -5,6 +5,8 @@ __pycache__/
 *.sqlite3
 output/
 review-results/
+confirmation_success.png
+failure.png
 .playwright/
 .pytest_cache/
 .venv/
