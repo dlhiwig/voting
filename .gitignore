@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+output/
+review-results/
+.playwright/
+.pytest_cache/
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
